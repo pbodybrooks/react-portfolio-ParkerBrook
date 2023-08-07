@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/react-portfolio-parkerbrook/static/css/main.eedd2577.css",
+    "main.js": "/react-portfolio-parkerbrook/static/js/main.1aeceed0.js",
+    "static/media/hero-surf.jpg": "/react-portfolio-parkerbrook/static/media/hero-surf.43ab3119fb9ff79a45e7.jpg",
+    "static/media/myPic.jpeg": "/react-portfolio-parkerbrook/static/media/myPic.2ba7f6959901a7212872.jpeg",
+    "static/media/resume.pdf": "/react-portfolio-parkerbrook/static/media/resume.989d41bf0c1a379e6311.pdf",
+    "index.html": "/react-portfolio-parkerbrook/index.html",
+    "main.eedd2577.css.map": "/react-portfolio-parkerbrook/static/css/main.eedd2577.css.map",
+    "main.1aeceed0.js.map": "/react-portfolio-parkerbrook/static/js/main.1aeceed0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eedd2577.css",
+    "static/js/main.1aeceed0.js"
+  ]
+}
